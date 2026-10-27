@@ -1,0 +1,2 @@
+Case,Equation,Geometry,Boundary,kx,ky,PDE_Points,Boundary_Points,Boundary_Rank,Null_Dimension,Sigma,RMSE,MaxError,BC_Train_Max,BC_Dense_Dirichlet_Max,Residual_RMS,Residual_Max
+Biharmonic flower,Delta^2 u = (kx^2+ky^2)^2 u_exact,"r(theta)=0.33+0.10 cos(5 theta), center=(0.5,0.5)","u=u_exact, du/dn=du_exact/dn",15.707963267948966,15.707963267948966,420,120,235,425,0.07,0.0017140608622861677,0.006506830826020993,1.2139802381572196e-05,1.0485876174070924e-06,2834.416089432773,30884.39630577863

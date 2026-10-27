@@ -1,0 +1,2 @@
+Case,Equation,Geometry,Boundary,kx,ky,PDE_Points,Boundary_Points,Boundary_Rank,Null_Dimension,Sigma,RMSE,MaxError,BC_Train_Max,BC_Dense_Max,Residual_RMS,Residual_Max
+Poisson petal,-Delta u = (kx^2+ky^2) u_exact,"r(theta)=0.33+0.10 cos(5 theta), center=(0.5,0.5)",u = u_exact,12.566370614359172,12.566370614359172,800,340,140,1000,0.075,0.0004316253879932827,0.002370640979454497,2.2316692296013574e-05,2.2318738918183922e-05,0.7323235233285516,8.79381156194296

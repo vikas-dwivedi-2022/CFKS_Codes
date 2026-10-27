@@ -1,0 +1,2 @@
+Case,Equation,Parameter,Predictor_PDE,Predictor_RMSE,Predictor_MaxError,Corrector_AvgPDE,Corrector_MinPDE,Corrector_MaxPDE,Corrector_RMSE,Corrector_MaxError,RMSE_Improvement,MaxError_Improvement,Sigma_x,Sigma_t,Pilot_PointsPerBlock,Low_PointsPerBlock,Mid_PointsPerBlock,High_PointsPerBlock
+Advection-diffusion,u_t + a u_x - nu u_xx = 0,"a=0.50, nu=1e-03",100,0.04359713820487879,0.15047070742693563,326.16,304,344,0.0009423435046863217,0.003459812326162548,46.26459246343613,43.49100276020759,0.02,0.01,4,8,16,24

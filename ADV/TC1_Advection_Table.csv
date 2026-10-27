@@ -1,0 +1,2 @@
+Case,Equation,Parameter,Predictor_PDE,Predictor_RMSE,Predictor_MaxError,Corrector_AvgPDE,Corrector_MinPDE,Corrector_MaxPDE,Corrector_RMSE,Corrector_MaxError,RMSE_Improvement,MaxError_Improvement,Sigma_x,Sigma_t,Pilot_PointsPerBlock,Low_PointsPerBlock,Mid_PointsPerBlock,High_PointsPerBlock
+Advection,u_t + u_x = 0,beta=25,200,0.0652631093625509,0.3728938934976642,307.04,288,320,0.002870839945525405,0.021283752395468647,22.73310619920569,17.52011988154185,0.02,0.01,8,8,16,24
