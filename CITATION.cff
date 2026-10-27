@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this CFKS code, please cite this software and the accompanying manuscript when published."
+type: software
+title: "CFKS_Codes: Continuum-Feature Kernel PDE Solvers"
+authors:
+  - family-names: "Dwivedi"
+    given-names: "Vikas"
+repository-code: "https://github.com/vikas-dwivedi-2022/CFKS_Codes"

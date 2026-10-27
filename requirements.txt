@@ -1,0 +1,7 @@
+# Initial core dependencies for the Jupyter-based CFKS code.
+# Review imports across all experiments and pin versions for a reproducible release.
+numpy
+scipy
+matplotlib
+jupyterlab
+ipykernel
